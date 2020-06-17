@@ -143,7 +143,7 @@ The reflect function should take an image and reflect it horizontally.
 Finally, the blur function should take an image and turn it into a box-blurred version of the same image.
 You should not modify any of the function signatures, nor should you modify any other files other than helpers.c.
 
-Walkthrough
+
 
 Usage
 Your program should behave per the examples below.
